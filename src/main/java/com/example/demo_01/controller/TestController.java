@@ -17,6 +17,6 @@ public class TestController {
   @GetMapping(value = "/test")
   @ResponseBody
   public String test() {
-    return "自动发布-3";
+    return "自动发布-4";
   }
 }
